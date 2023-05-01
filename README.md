@@ -26,4 +26,4 @@ Maybe not much to say here. I start learn to work on project as profesional.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@reqayasa](https://www.frontendmentor.io/profile/reqayasa)
